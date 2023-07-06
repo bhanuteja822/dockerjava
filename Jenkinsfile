@@ -122,6 +122,7 @@ pipeline {
         }
         aborted {
             echo 'aborted'
+            //echo
         }
     }
 }
